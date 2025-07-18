@@ -14,7 +14,7 @@ Note: A minimum of **three tasks** must be completed for successful internship c
 **Objective:** Create an AI agent that plays the classic game against a human player.
 
 **Techniques Used:**
-- Minimax Algorith
+- Minimax Algorithm
 - Alpha-Beta Pruning (optional)
 
 **Learning Outcome:** Explores game theory and search algorithms, enabling you to build an unbeatable AI game player.
